@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java Script, React etc**
 
-- 📫 How to reach me **usamabenamhmud@gmail.com**
+- 📫 How to reach me **usamabenmahmud@gmail.com**
 
 - ⚡ Fun fact **I love code.**
 
